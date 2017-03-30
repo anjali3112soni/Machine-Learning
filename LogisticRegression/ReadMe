@@ -1,1 +1,3 @@
 
+I have trained two dataset using logistic regression.
+I have used 90% of dataset from each data as training example and 10% of dataset for testing.
