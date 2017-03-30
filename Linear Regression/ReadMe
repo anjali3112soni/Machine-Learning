@@ -1,1 +1,4 @@
 
+In this file, i have used python with keras Library, Sklearn Library to give prediction on dataset "carsmall.xls".
+I have used linear regression and polynomial regression to fit this dataset.
+Carsmall.xls: This dataset contains information about how much distance a car will cover if i use 1 gallon of fuel.
